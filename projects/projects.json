@@ -1,0 +1,58 @@
+[
+ {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "../assets/images/projects/portf.png",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/in/rumesh-kaluarachchi/",
+      "code": "https://github.com/rumesh186/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Coffee Shop Website",
+    "desc": "Sleek coffee shop website with menu, online ordering, and smooth animations.",
+    "image": "../assets/images/projects/coffee.png",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/in/rumesh-kaluarachchi/",
+      "code": "https://github.com/rumesh186/Coffee-Shop-Website"
+    }
+  },
+  {
+    "name": "NWSDB Mobile App",
+    "desc": "UI/UX design for NWSDB app with intuitive interfaces for bill management and service requests.",
+    "image": "../assets/images/projects/mockup.png",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/225779315/UIUX-Design"
+    }
+  },
+  {
+    "name": "Bus Tracking System Mobile App",
+    "desc": "UI/UX design for a bus tracking app with real-time updates, route planning, and live arrivals.",
+    "image": "../assets/images/projects/Frame.png",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/225784195/UIUX-Design"
+    }
+  },
+  {
+    "name": "Shopora.lk Website",
+    "desc": "UI/UX design for Shopora.lk with smooth navigation and modern shopping experience.",
+    "image": "../assets/images/projects/shopora.png",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/228836697/ShoporaUIUX-Design"
+    }
+  },
+  {
+    "name": "Logistic Logo Design",
+    "desc": "Logo design for a logistics company highlighting speed, reliability, and modern branding.",
+    "image": "../assets/images/projects/logistic.jpg",
+    "category": "graphic",
+    "links": {
+      "view": "https://www.behance.net/gallery/225961921/LOGO-Design"
+    }
+  }
+]
