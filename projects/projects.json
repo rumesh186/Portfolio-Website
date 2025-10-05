@@ -64,5 +64,24 @@
        "view": "https://www.behance.net/gallery/235853095/Mobile-app-UIUX-design-for-Cargills-Food-City"
      }
    }
+   {
+     "name": "Logistics Website UI/UX Design",
+     "desc": "Logistics website UI/UX Design for seamless tracking, booking, and management of services.",
+     "image": "../assets/images/projects/Logistics.png",
+     "category": "uiux",
+     "links": {
+       "view": "https://www.behance.net/rumeshlakmal186"
+     }
+   }
+   {
+     "name": "Creovix.lk Graphic Design Website",
+     "desc": "Creovix.lk Graphic Design Website UI/UX Design.",
+     "image": "../assets/images/projects/Creovix.png",
+     "category": "uiux",
+     "links": {
+       "view": "https://www.behance.net/rumeshlakmal186"
+     }
+   }
 
 ]
+
