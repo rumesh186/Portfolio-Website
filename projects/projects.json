@@ -54,5 +54,15 @@
     "links": {
       "view": "https://www.behance.net/gallery/225961921/LOGO-Design"
     }
-  }
+  },
+  {
+     "name": " Cargills Food City Mobile App",
+     "desc": "Mobile app UI/UX design for Cargills Food City with online shopping, personalized offers, and seamless checkout.",
+     "image": "../assets/images/projects/FoodCity.png",
+     "category": "uiux",
+     "links": {
+       "view": "https://www.behance.net/gallery/235853095/Mobile-app-UIUX-design-for-Cargills-Food-City"
+     }
+   }
+
 ]
