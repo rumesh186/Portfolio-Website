@@ -67,7 +67,7 @@
    {
      "name": "Logistics Website UI/UX Design",
      "desc": "Logistics website UI/UX Design for seamless tracking, booking, and management of services.",
-     "image": "../assets/images/projects/Logistics.png",
+     "image": "../assets/images/projects/Logistic.png",
      "category": "uiux",
      "links": {
        "view": "https://www.behance.net/rumeshlakmal186"
@@ -84,5 +84,6 @@
    }
 
 ]
+
 
 
