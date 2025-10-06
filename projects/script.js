@@ -20,11 +20,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Rumesh Kaluarachchi";
+            document.title = "Rumesh Kaluarachchi";
             $("#favicon").attr("href", "../assets/images/rumesh1.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Rumesh Kaluarachchi";
             $("#favicon").attr("href", "../assets/images/rumesh1.png");
         }
     });
@@ -136,4 +136,5 @@ document.onkeydown = function (e) {
     }
 
 }
+
 
