@@ -2,7 +2,7 @@
  {
     "name": "Portfolio Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-    "image": "../assets/images/projects/portf.png",
+    "image": "../assets/images/projects/portf.jpg",
     "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/in/rumesh-kaluarachchi/",
@@ -22,7 +22,7 @@
   {
     "name": "NWSDB Mobile App",
     "desc": "UI/UX design for NWSDB app with intuitive interfaces for bill management and service requests.",
-    "image": "../assets/images/projects/mockup.png",
+    "image": "../assets/images/projects/mockup.jpg",
     "category": "uiux",
     "links": {
       "view": "https://www.behance.net/gallery/225779315/UIUX-Design"
@@ -31,7 +31,7 @@
   {
     "name": "Bus Tracking System Mobile App",
     "desc": "UI/UX design for a bus tracking app with real-time updates, route planning, and live arrivals.",
-    "image": "../assets/images/projects/Frame.png",
+    "image": "../assets/images/projects/Frame.jpg",
     "category": "uiux",
     "links": {
       "view": "https://www.behance.net/gallery/225784195/UIUX-Design"
@@ -40,7 +40,7 @@
   {
     "name": "Shopora.lk Website",
     "desc": "UI/UX design for Shopora.lk with smooth navigation and modern shopping experience.",
-    "image": "../assets/images/projects/shopora.png",
+    "image": "../assets/images/projects/shopora.jpg",
     "category": "uiux",
     "links": {
       "view": "https://www.behance.net/gallery/228836697/ShoporaUIUX-Design"
@@ -49,7 +49,7 @@
   {
     "name": "Logistic Logo Design",
     "desc": "Logo design for a logistics company highlighting speed, reliability, and modern branding.",
-    "image": "../assets/images/projects/logistic.jpg",
+    "image": "../assets/images/projects/logistic1.jpg",
     "category": "graphic",
     "links": {
       "view": "https://www.behance.net/gallery/225961921/LOGO-Design"
@@ -58,7 +58,7 @@
   {
      "name": " Cargills Food City Mobile App",
      "desc": "Mobile app UI/UX design for Cargills Food City with online shopping, personalized offers, and seamless checkout.",
-     "image": "../assets/images/projects/FoodCity.png",
+     "image": "../assets/images/projects/FoodCity.jpg",
      "category": "uiux",
      "links": {
        "view": "https://www.behance.net/gallery/235853095/Mobile-app-UIUX-design-for-Cargills-Food-City"
@@ -67,7 +67,7 @@
    {
      "name": "Logistics Website UI/UX Design",
      "desc": "Logistics website UI/UX Design for seamless tracking, booking, and management of services.",
-     "image": "../assets/images/projects/Logistic.png",
+     "image": "../assets/images/projects/Logistic.jpg",
      "category": "uiux",
      "links": {
        "view": "https://www.behance.net/rumeshlakmal186"
@@ -76,7 +76,7 @@
    {
      "name": "Creovix.lk Graphic Design Website",
      "desc": "Creovix.lk Graphic Design Website UI/UX Design.",
-     "image": "../assets/images/projects/Creovix.png",
+     "image": "../assets/images/projects/Creovix.jpg",
      "category": "uiux",
      "links": {
        "view": "https://www.behance.net/rumeshlakmal186"
@@ -84,6 +84,7 @@
    }
 
 ]
+
 
 
 
